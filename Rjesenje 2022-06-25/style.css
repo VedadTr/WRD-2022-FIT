@@ -1,0 +1,229 @@
+﻿header {
+    background: url(images/background.jpg) no-repeat center;
+    background-size: cover;
+    text-align: center;
+    color: #ffffff;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#best-offers .offer {
+    width: 30%;
+    background-color: #ffffff;
+    border: none;
+    box-shadow: 3px 3px 5px 0px rgba(171, 171, 171, 1);
+    margin-bottom: 30px;
+}
+
+.offer-image{
+    min-height: 10px;
+}
+
+
+footer {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    color: #8A8A8A;
+    font-size: 0.7em;
+    padding: 30px 0;
+    margin: auto;
+}
+
+footer .footer-links {
+    display: flex;
+    justify-content: flex-end;
+    list-style-type: none;
+}
+
+footer .footer-links li {
+    margin-left: 20px;
+}
+
+footer .footer-links li a {
+    cursor: pointer;
+    text-decoration: none;
+    color: #8A8A8A;
+}
+
+/*css*/
+header{
+    padding-bottom: 15%;
+}
+
+.logo-container{
+    float: left;
+    margin-top: 1%;
+    margin-left: 10%;
+}
+
+li{
+    padding-top: 2%;
+    padding-right: 0.3%;
+    display: flex;
+    display:inline-block;
+    list-style: none;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+}
+.nav-primary{
+    text-align: right;
+    margin-right: 10%;
+
+}
+.header-title{
+    margin-top: 15%;
+}
+
+h2.ponuda-dugme{
+    background-color: #408B87;
+    width: 15%;
+    text-align: center;
+    margin: auto;
+    padding: 0.7%;
+    color: white;
+    margin-top: 2.5%;
+}
+.subtitle{
+    color: gray;
+    text-align: center;
+    padding-top: 1%;
+    margin-bottom: 3%;
+}
+
+.offer-image{
+    width: 100%;
+    height: 280px;
+    background-size: cover;
+}
+.offers-container{
+    width: 93%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    justify-content: space-around;
+}
+
+.offer-destination{
+    padding-top: 4%;
+    font-size: large;
+    font-weight: bold;
+    float: left;
+    padding-left: 2%;
+}
+.offer-price{
+    padding-top: 4%;
+    padding-right: 2%;
+    font-size: large;
+    float: right;
+    font-weight: bold;
+
+}
+.offer-description{
+    padding-top: 1%;
+    clear: both;
+    padding-left: 2%;
+}
+
+.offer-option{
+    width: 96%;
+    margin-left:2.5%;
+}
+
+.ponuda-dugme{
+    background-color: #408B87;
+    width: 41%;
+    text-align: center;
+    margin: auto;
+    padding: 1.7%;
+    color: white;
+    margin-top: 6.5%;
+    margin-bottom: 3%;
+}
+
+#contact-form{
+    margin-top: 3%;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+textarea{
+    width:100%;
+    height:5em;
+}
+
+.item{
+    width:47%;
+}
+
+input{
+    padding-top: 2.5%;
+    padding-bottom: 1.5%;
+    width:100%;
+}
+
+.button{
+    color: white;
+    background-color: rgb(225, 153, 20);
+    border: none;
+    padding: 1.1%;
+    margin-top: 3%;
+    width: 25%;
+    margin-bottom: 10%;
+}
+main{
+    background-color: rgb(247, 247, 247);
+}
+
+
+@media screen and (max-width:600px) {
+    
+  .offer{
+    flex-basis: 49%;
+  }
+  .logo-container{
+    background-color:rgb(1,107, 121, 0.7);
+    width: 100%;
+    margin:0%;
+    border-bottom: 2px solid white;
+    padding-top:2%;
+    padding-bottom:2%
+  }
+  li{
+    
+    background-color:rgb(1,107, 121, 0.7);
+    width: 100%;
+    text-align: center;
+    margin:0%;
+    border-bottom: 2px solid white;
+    padding-top:2%;
+    padding-bottom:2%
+  }
+
+  .nav-primary{
+    margin: 0;
+    padding:0;
+  }
+
+  h2.ponuda-dugme{
+    width: 33%;
+  }
+}
