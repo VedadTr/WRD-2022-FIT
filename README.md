@@ -35,22 +35,4 @@ Link za entry level JavaScript: [JavaScript Tutorial](https://www.w3schools.com/
 5. Auto close tag (automatski zatvara sve otvorene HTML tagove):  [Autoclose tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 <hr>
 
-**Ispitni zadaci**
 
-<hr>
-
-[Ispitni 03.07.2021](Ispitni/Ispitni%2003.07.2021/Rjesenje) - [Postavka](Ispitni/Ispitni%2003.07.2021/Postavka)
-
-[Ispitni 14.09.2019](Ispitni/Ispitni%2014.09.2019/Rjesenje) - [Postavka](Ispitni/Ispitni%2014.09.2019/Postavka)
-
-[Ispitni 20.04.2019 (parcijalni)](Ispitni/Ispitni%2020.04.2019%20(parcijalni)/Rjesenje) - [Postavka](Ispitni/Ispitni%2020.04.2019%20(parcijalni)/Postavka)
-
-[Ispitni 22.06.2019](Ispitni/Ispitni%2022.06.2019/Rjesenje) - [Postavka](Ispitni/Ispitni%2022.06.2019/Postavka)
-
-[Ispitni 26.09.2020](Ispitni/Ispitni%2026.09.2020/Rjesenje) - [Postavka](Ispitni/Ispitni%2026.09.2020/Postavka)
-
-[Ispitni 31.08.2019](Ispitni/Ispitni%2031.08.2019/Rjesenje) - [Postavka](Ispitni/Ispitni%2031.08.2019/Postavka)
-
-[Probni ispitni 25.05.2021](Ispitni/Probni%2025.05.2021/Rjesenje) - [Postavka](Ispitni/Probni%2025.05.2021/Postavka)
-
-<hr>
